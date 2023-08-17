@@ -15,12 +15,21 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Remis Haroon."
 email: 'remisharoon@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+description: """I'm a Senior Software Engineer and Development Team Leader with over 15 years of commercial experience, specializing in Data Engineering and Distributed Systems. Over the last 7 years, I've honed my skills in Big Data systems, dedicating myself to solve complex business problems with efficiency and innovation.
+
+As a team leader, I foster a culture of transparency, equality, and camaraderie. I believe in strengthening team relationships, enhancing communication, and proactively identifying and resolving obstacles that impede progress.
+
+With a deep interest in cloud infrastructure and serverless microservices architecture, I continuously seek opportunities to learn, grow, and apply new knowledge to the dynamic tech landscape.
+
+Languages: Java, Scala, SQL, and Python.
+
+Skills / Tech: Expertise in Apache Spark, Cassandra, Kafka, Mongo, Elasticsearch, Redis, GCP, Kubernetes, PubSubs, Serverless. Proficient with GitHub, Jira, Confluence, Slack, Asana, OOP, AWS S3, RabbitMQ, Docker, REST, CRUD, SOLID, Ansible. I've a strong grasp on Big Data Analytics, MapReduce, Data Lakes, Database Design, and processing Unstructured and Semi-Structured Data."""
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
+url: "https://remisharoon.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'property_anlyzr'
 github_username: 'remisharoon'
-medium_username: 'remisharoon'
+medium_username: 'https://medium.com/@remisharoon'
 
 # Build settings
 markdown: kramdown
